@@ -1,5 +1,7 @@
 Youtube from Codemy.com / Python GUI's With Tkinter [225Title]
 
+※挫折しないための検索先 https://cercopes-z.com/index.html  より Python > 標準ライブラリ一覧 > T または検索先上部のGoogle検索にてキーワード検索で関連記事の一覧が取得できます
+
 1.CreateGraphical User Interfaces With Python And Tkinter
 	movie_1.py[Label]
 
